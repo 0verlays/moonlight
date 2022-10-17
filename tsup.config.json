@@ -1,0 +1,11 @@
+{
+  "clean": true,
+  "entry": ["./src/ds/index.ts"],
+  "format": ["cjs", "esm"],
+  "minify": true,
+  "sourcemap": false,
+  "splitting": true,
+  "target": "es5",
+  "treeshake": true,
+  "tsconfig": "./tsconfig.ds.json"
+}

@@ -1,0 +1,12 @@
+#node
+/node_modules
+
+.next
+.vercel
+/out
+/dist
+/build
+
+#yarn
+yarn.lock
+yarn-error.log
